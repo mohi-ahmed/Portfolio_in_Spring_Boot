@@ -1,0 +1,15 @@
+package com.sparktech.portfolio_deploy.Model;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+
+public class Contact {
+    private String name;
+    private String email;
+    private String message;
+}
