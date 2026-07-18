@@ -14,6 +14,15 @@ import org.springframework.web.bind.annotation.PostMapping;
 @Controller
 public class ContactController {
 
+    private final JavaMailSender mailSender;
+
+    @Value("${contact.recipient.email}")
+    private String recipientEmail;
+
+    public ContactController(JavaMailSender mailSender) {
+        this.mailSender = mailSender;
+    }
+
     @GetMapping("/contact")
     public String contactPage() {
         return "contact";
