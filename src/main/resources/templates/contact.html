@@ -50,6 +50,13 @@
             <button type="submit" class="btn submit-btn">Submit</button>
             <p id="formResult"></p>
         </form>
+
+        <p id="formResult" class="success" th:if="${param.sent != null and param.sent[0] == 'true'}">
+            Message sent successfully!
+        </p>
+        <p id="formResult" class="error" th:if="${param.sent != null and param.sent[0] == 'false'}">
+            Something went wrong. Please try again or email me directly.
+        </p>
     </div>
 </section>
 
