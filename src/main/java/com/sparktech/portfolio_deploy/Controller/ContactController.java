@@ -30,8 +30,18 @@ public class ContactController {
 
     @PostMapping("/contact-form")
     public String contactForm(@ModelAttribute Contact contact) {
-        log.info("This is the Contact form{}", contact);
-        return "redirect:/contact";
+        log.info("Contact form submission received: {}", contact);
+
+        try {
+            SimpleMailMessage message = new SimpleMailMessage();
+            message.setTo(recipientEmail);
+            message.setSubject("New portfolio contact form message from " + contact.getName());
+            message.setText(
+                    "Name: " + contact.getName() + "\n" +
+                            "Email: " + contact.getEmail() + "\n\n" +
+                            "Message:\n" + contact.getMessage()
+            );
+            message.setReplyTo(contact.getEmail());
 
     }
 }
