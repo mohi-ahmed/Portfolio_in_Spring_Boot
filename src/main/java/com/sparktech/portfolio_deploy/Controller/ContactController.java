@@ -43,5 +43,12 @@ public class ContactController {
             );
             message.setReplyTo(contact.getEmail());
 
+            mailSender.send(message);
+            log.info("Contact form email sent successfully for {}", contact.getEmail());
+            return "redirect:/contact?sent=true";
+        } catch (Exception e) {
+            log.error("Failed to send contact form email", e);
+            return "redirect:/contact?sent=false";
+        }
     }
 }
