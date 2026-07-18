@@ -30,7 +30,6 @@
         <h2 class="section-title">Contact Me</h2>
 
         <form id="contactForm" class="contact-form" th:action="@{/contact-form}" method = "post">
-            <input type="hidden" name="access_key" value="eebe8fbf-ecb1-4735-a25e-c1b3b4d9a67e">
 
             <div class="input">
                 <i class="fa-solid fa-user"></i>
@@ -48,7 +47,6 @@
             </div>
 
             <button type="submit" class="btn submit-btn">Submit</button>
-            <p id="formResult"></p>
         </form>
 
         <p id="formResultSuccess" class="success" th:if="${param.sent != null and param.sent[0] == 'true'}">
@@ -73,8 +71,6 @@
     <p class="copyright">© All Rights Reserved | Mostofa Mohi Uddin Ahmed | mohiahmed931@gmail.com</p>
 
 </footer>
-
-<script th:src="@{/script.js}"></script>
 
 </body>
 </html>
