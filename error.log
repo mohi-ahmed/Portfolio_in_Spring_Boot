@@ -1,307 +1,195 @@
-2026-07-18T16:46:23.565+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Starting PortfolioConvertToJavaAndDeployApplication using Java 25.0.3 with PID 15956 (E:\Advance Java Assignment\Portfolio Convert To Java and Deploy\target\classes started by LENOVO in E:\Advance Java Assignment\Portfolio Convert To Java and Deploy)
-2026-07-18T16:46:23.571+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : No active profile set, falling back to 1 default profile: "default"
-2026-07-18T16:46:23.660+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2026-07-18T16:46:23.661+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2026-07-18T16:46:24.688+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 5782 (http)
-2026-07-18T16:46:24.716+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2026-07-18T16:46:24.717+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
-2026-07-18T16:46:24.766+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1104 ms
-2026-07-18T16:46:25.277+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 5782 (http) with context path '/'
-2026-07-18T16:46:25.284+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Started PortfolioConvertToJavaAndDeployApplication in 2.397 seconds (process running for 3.467)
-2026-07-18T16:46:31.719+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 8 class path changes (0 additions, 7 deletions, 1 modification)
-2026-07-18T16:46:31.737+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [Thread-1] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
-2026-07-18T16:46:31.786+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
-2026-07-18T16:46:32.148+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Starting PortfolioConvertToJavaAndDeployApplication using Java 25.0.3 with PID 15956 (E:\Advance Java Assignment\Portfolio Convert To Java and Deploy\target\classes started by LENOVO in E:\Advance Java Assignment\Portfolio Convert To Java and Deploy)
-2026-07-18T16:46:32.152+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : No active profile set, falling back to 1 default profile: "default"
-2026-07-18T16:46:32.924+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 5782 (http)
-2026-07-18T16:46:32.927+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2026-07-18T16:46:32.928+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
-2026-07-18T16:46:33.024+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 862 ms
-2026-07-18T16:46:33.410+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 5782 (http) with context path '/'
-2026-07-18T16:46:33.426+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Started PortfolioConvertToJavaAndDeployApplication in 1.439 seconds (process running for 11.609)
-2026-07-18T16:46:33.438+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
-2026-07-18T16:46:47.004+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 3 class path changes (3 additions, 0 deletions, 0 modifications)
-2026-07-18T16:46:47.826+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [Thread-5] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
-2026-07-18T16:46:48.276+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
-2026-07-18T16:46:49.125+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Starting PortfolioConvertToJavaAndDeployApplication using Java 25.0.3 with PID 15956 (E:\Advance Java Assignment\Portfolio Convert To Java and Deploy\target\classes started by LENOVO in E:\Advance Java Assignment\Portfolio Convert To Java and Deploy)
-2026-07-18T16:46:49.129+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : No active profile set, falling back to 1 default profile: "default"
-2026-07-18T16:46:49.959+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 5782 (http)
-2026-07-18T16:46:49.962+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2026-07-18T16:46:49.963+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
-2026-07-18T16:46:50.079+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 937 ms
-2026-07-18T16:46:50.420+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 5782 (http) with context path '/'
-2026-07-18T16:46:50.443+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Started PortfolioConvertToJavaAndDeployApplication in 1.442 seconds (process running for 28.626)
-2026-07-18T16:46:50.454+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
-2026-07-18T16:46:53.683+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 4 class path changes (4 additions, 0 deletions, 0 modifications)
-2026-07-18T16:46:53.687+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [Thread-9] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
-2026-07-18T16:46:53.709+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
-2026-07-18T16:46:54.093+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Starting PortfolioConvertToJavaAndDeployApplication using Java 25.0.3 with PID 15956 (E:\Advance Java Assignment\Portfolio Convert To Java and Deploy\target\classes started by LENOVO in E:\Advance Java Assignment\Portfolio Convert To Java and Deploy)
-2026-07-18T16:46:54.097+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : No active profile set, falling back to 1 default profile: "default"
-2026-07-18T16:46:55.056+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 5782 (http)
-2026-07-18T16:46:55.059+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2026-07-18T16:46:55.062+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
-2026-07-18T16:46:55.172+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1062 ms
-2026-07-18T16:46:55.504+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 5782 (http) with context path '/'
-2026-07-18T16:46:55.513+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Started PortfolioConvertToJavaAndDeployApplication in 1.626 seconds (process running for 33.696)
-2026-07-18T16:46:55.527+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
-2026-07-18T16:47:51.176+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [http-nio-5782-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
-2026-07-18T16:47:51.179+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [http-nio-5782-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-2026-07-18T16:47:51.182+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [http-nio-5782-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
-2026-07-18T16:48:13.000+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [http-nio-5782-exec-3] c.s.p.Controller.ContactController       : Contact form submission received: Contact(name=Mostofa Mohi Uddin Ahmed, email=mohiahme@gmail.com, message=hiiiii)
-2026-07-18T16:48:15.659+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [http-nio-5782-exec-4] c.s.p.Controller.ContactController       : Contact form submission received: Contact(name=Mostofa Mohi Uddin Ahmed, email=mohiahme@gmail.com, message=hiiiii)
-2026-07-18T16:48:17.455+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [http-nio-5782-exec-5] c.s.p.Controller.ContactController       : Contact form submission received: Contact(name=Mostofa Mohi Uddin Ahmed, email=mohiahme@gmail.com, message=hiiiii)
-2026-07-18T16:48:19.544+06:00 ERROR 15956 --- [Portfolio Convert To Java and Deploy] [http-nio-5782-exec-3] c.s.p.Controller.ContactController       : Failed to send contact form email
+2026-07-19T00:00:57.938+06:00  INFO 22316 --- [Portfolio Convert To Java and Deploy] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-19T00:00:57.952+06:00  INFO 22316 --- [Portfolio Convert To Java and Deploy] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-07-19T00:01:00.623+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Starting PortfolioConvertToJavaAndDeployApplication using Java 25.0.3 with PID 8052 (E:\Advance Java Assignment\Portfolio Convert To Java and Deploy\target\classes started by LENOVO in E:\Advance Java Assignment\Portfolio Convert To Java and Deploy)
+2026-07-19T00:01:00.629+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : No active profile set, falling back to 1 default profile: "default"
+2026-07-19T00:01:00.703+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-07-19T00:01:00.704+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-07-19T00:01:01.755+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 5782 (http)
+2026-07-19T00:01:01.770+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-07-19T00:01:01.771+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-07-19T00:01:01.813+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1108 ms
+2026-07-19T00:01:02.296+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 5782 (http) with context path '/'
+2026-07-19T00:01:02.310+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Started PortfolioConvertToJavaAndDeployApplication in 2.212 seconds (process running for 3.205)
+2026-07-19T00:05:12.826+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-07-19T00:05:12.839+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [Thread-1] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-19T00:05:12.892+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-07-19T00:05:13.179+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Starting PortfolioConvertToJavaAndDeployApplication using Java 25.0.3 with PID 8052 (E:\Advance Java Assignment\Portfolio Convert To Java and Deploy\target\classes started by LENOVO in E:\Advance Java Assignment\Portfolio Convert To Java and Deploy)
+2026-07-19T00:05:13.182+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : No active profile set, falling back to 1 default profile: "default"
+2026-07-19T00:05:13.954+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 5782 (http)
+2026-07-19T00:05:13.959+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-07-19T00:05:13.960+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-07-19T00:05:14.058+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 865 ms
+2026-07-19T00:05:14.381+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 5782 (http) with context path '/'
+2026-07-19T00:05:14.395+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Started PortfolioConvertToJavaAndDeployApplication in 1.333 seconds (process running for 255.29)
+2026-07-19T00:05:14.402+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-07-19T00:05:37.830+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 17 class path changes (0 additions, 7 deletions, 10 modifications)
+2026-07-19T00:05:37.841+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [Thread-5] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-19T00:05:37.856+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-07-19T00:05:38.226+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Starting PortfolioConvertToJavaAndDeployApplication using Java 25.0.3 with PID 8052 (E:\Advance Java Assignment\Portfolio Convert To Java and Deploy\target\classes started by LENOVO in E:\Advance Java Assignment\Portfolio Convert To Java and Deploy)
+2026-07-19T00:05:38.227+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : No active profile set, falling back to 1 default profile: "default"
+2026-07-19T00:05:39.961+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 5782 (http)
+2026-07-19T00:05:39.964+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-07-19T00:05:39.964+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-07-19T00:05:40.221+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1983 ms
+2026-07-19T00:05:40.846+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 5782 (http) with context path '/'
+2026-07-19T00:05:40.858+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Started PortfolioConvertToJavaAndDeployApplication in 2.754 seconds (process running for 281.753)
+2026-07-19T00:05:40.872+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-07-19T00:05:42.040+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 7 class path changes (7 additions, 0 deletions, 0 modifications)
+2026-07-19T00:05:42.046+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [Thread-9] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-19T00:05:42.073+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-07-19T00:05:42.433+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Starting PortfolioConvertToJavaAndDeployApplication using Java 25.0.3 with PID 8052 (E:\Advance Java Assignment\Portfolio Convert To Java and Deploy\target\classes started by LENOVO in E:\Advance Java Assignment\Portfolio Convert To Java and Deploy)
+2026-07-19T00:05:42.435+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : No active profile set, falling back to 1 default profile: "default"
+2026-07-19T00:05:43.114+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 5782 (http)
+2026-07-19T00:05:43.118+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-07-19T00:05:43.120+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-07-19T00:05:43.203+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 760 ms
+2026-07-19T00:05:43.489+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 5782 (http) with context path '/'
+2026-07-19T00:05:43.502+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Started PortfolioConvertToJavaAndDeployApplication in 1.191 seconds (process running for 284.396)
+2026-07-19T00:05:43.508+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-07-19T00:08:09.757+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2026-07-19T00:08:09.760+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [Thread-13] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-19T00:08:09.777+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-07-19T00:08:10.045+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Starting PortfolioConvertToJavaAndDeployApplication using Java 25.0.3 with PID 8052 (E:\Advance Java Assignment\Portfolio Convert To Java and Deploy\target\classes started by LENOVO in E:\Advance Java Assignment\Portfolio Convert To Java and Deploy)
+2026-07-19T00:08:10.046+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : No active profile set, falling back to 1 default profile: "default"
+2026-07-19T00:08:10.759+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 5782 (http)
+2026-07-19T00:08:10.761+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-07-19T00:08:10.762+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-07-19T00:08:10.834+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 782 ms
+2026-07-19T00:08:11.066+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 5782 (http) with context path '/'
+2026-07-19T00:08:11.072+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Started PortfolioConvertToJavaAndDeployApplication in 1.155 seconds (process running for 431.967)
+2026-07-19T00:08:11.075+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-07-19T00:08:19.593+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-07-19T00:08:19.597+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [Thread-17] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-19T00:08:19.645+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-07-19T00:08:19.898+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Starting PortfolioConvertToJavaAndDeployApplication using Java 25.0.3 with PID 8052 (E:\Advance Java Assignment\Portfolio Convert To Java and Deploy\target\classes started by LENOVO in E:\Advance Java Assignment\Portfolio Convert To Java and Deploy)
+2026-07-19T00:08:19.899+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : No active profile set, falling back to 1 default profile: "default"
+2026-07-19T00:08:21.170+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 5782 (http)
+2026-07-19T00:08:21.172+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-07-19T00:08:21.173+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-07-19T00:08:21.203+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1297 ms
+2026-07-19T00:08:21.326+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 5782 (http) with context path '/'
+2026-07-19T00:08:21.328+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Started PortfolioConvertToJavaAndDeployApplication in 1.532 seconds (process running for 442.223)
+2026-07-19T00:08:21.329+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-07-19T00:19:58.597+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-07-19T00:19:58.619+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [Thread-21] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-19T00:19:58.730+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-07-19T00:19:59.401+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Starting PortfolioConvertToJavaAndDeployApplication using Java 25.0.3 with PID 8052 (E:\Advance Java Assignment\Portfolio Convert To Java and Deploy\target\classes started by LENOVO in E:\Advance Java Assignment\Portfolio Convert To Java and Deploy)
+2026-07-19T00:19:59.410+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : No active profile set, falling back to 1 default profile: "default"
+2026-07-19T00:20:02.387+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 5782 (http)
+2026-07-19T00:20:02.391+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-07-19T00:20:02.391+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-07-19T00:20:02.424+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 2984 ms
+2026-07-19T00:20:02.466+06:00  WARN 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'contactController': Injection of autowired dependencies failed
+2026-07-19T00:20:02.467+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2026-07-19T00:20:02.474+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
 
-org.springframework.mail.MailAuthenticationException: Authentication failed
-	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:389) ~[spring-context-support-7.0.8.jar:7.0.8]
-	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:304) ~[spring-context-support-7.0.8.jar:7.0.8]
-	at org.springframework.mail.MailSender.send(MailSender.java:42) ~[spring-context-support-7.0.8.jar:7.0.8]
-	at com.sparktech.portfolio_deploy.Controller.ContactController.contactForm(ContactController.java:46) ~[classes/:na]
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2026-07-19T00:20:02.489+06:00 ERROR 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'contactController': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:499) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1444) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:525) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:333) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:331) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:196) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1225) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1191) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1121) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:994) ~[spring-context-7.0.8.jar:7.0.8]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:621) ~[spring-context-7.0.8.jar:7.0.8]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-web-server-4.1.0.jar:4.1.0]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:756) ~[spring-boot-4.1.0.jar:4.1.0]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:445) ~[spring-boot-4.1.0.jar:4.1.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321) ~[spring-boot-4.1.0.jar:4.1.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1365) ~[spring-boot-4.1.0.jar:4.1.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-4.1.0.jar:4.1.0]
+	at com.sparktech.portfolio_deploy.PortfolioConvertToJavaAndDeployApplication.main(PortfolioConvertToJavaAndDeployApplication.java:10) ~[classes/:na]
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[na:na]
 	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[na:na]
-	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:252) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:184) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:903) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649) ~[tomcat-embed-core-11.0.22.jar:6.1]
-	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710) ~[tomcat-embed-core-11.0.22.jar:6.1]
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-11.0.22.jar:11.0.22]
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1272) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1801) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at java.base/java.lang.Thread.run(Thread.java:1474) ~[na:na]
-Caused by: jakarta.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. For more information, go to
-535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-3142a1ddeb6sm18978761eec.20 - gsmtp
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:52) ~[spring-boot-devtools-4.1.0.jar:4.1.0]
+Caused by: org.springframework.util.PlaceholderResolutionException: Could not resolve placeholder 'MAIL_USERNAME' in value "${MAIL_USERNAME}" <-- "${spring.mail.username}"
+	at org.springframework.util.PlaceholderResolutionException.withValue(PlaceholderResolutionException.java:81) ~[spring-core-7.0.8.jar:7.0.8]
+	at org.springframework.util.PlaceholderParser$ParsedValue.resolve(PlaceholderParser.java:296) ~[spring-core-7.0.8.jar:7.0.8]
+	at org.springframework.util.PlaceholderParser.replacePlaceholders(PlaceholderParser.java:129) ~[spring-core-7.0.8.jar:7.0.8]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:96) ~[spring-core-7.0.8.jar:7.0.8]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:286) ~[spring-core-7.0.8.jar:7.0.8]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:257) ~[spring-core-7.0.8.jar:7.0.8]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:184) ~[spring-context-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:959) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1679) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1658) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:764) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:748) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:146) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:493) ~[spring-beans-7.0.8.jar:7.0.8]
+	... 22 common frames omitted
 
-	at org.eclipse.angus.mail.smtp.SMTPTransport$Authenticator.authenticate(SMTPTransport.java:954) ~[angus-mail-2.0.5.jar:na]
-	at org.eclipse.angus.mail.smtp.SMTPTransport.authenticate(SMTPTransport.java:865) ~[angus-mail-2.0.5.jar:na]
-	at org.eclipse.angus.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:769) ~[angus-mail-2.0.5.jar:na]
-	at jakarta.mail.Service.connect(Service.java:345) ~[jakarta.mail-api-2.1.5.jar:na]
-	at org.springframework.mail.javamail.JavaMailSenderImpl.connectTransport(JavaMailSenderImpl.java:467) ~[spring-context-support-7.0.8.jar:7.0.8]
-	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:386) ~[spring-context-support-7.0.8.jar:7.0.8]
-	... 46 common frames omitted
+2026-07-19T00:20:23.178+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Starting PortfolioConvertToJavaAndDeployApplication using Java 25.0.3 with PID 8052 (E:\Advance Java Assignment\Portfolio Convert To Java and Deploy\target\classes started by LENOVO in E:\Advance Java Assignment\Portfolio Convert To Java and Deploy)
+2026-07-19T00:20:23.180+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : No active profile set, falling back to 1 default profile: "default"
+2026-07-19T00:20:23.612+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 5782 (http)
+2026-07-19T00:20:23.617+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-07-19T00:20:23.618+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-07-19T00:20:23.679+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 494 ms
+2026-07-19T00:20:23.977+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 5782 (http) with context path '/'
+2026-07-19T00:20:23.983+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Started PortfolioConvertToJavaAndDeployApplication in 0.893 seconds (process running for 1164.877)
+2026-07-19T00:20:23.985+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-07-19T00:20:26.388+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 7 class path changes (7 additions, 0 deletions, 0 modifications)
+2026-07-19T00:20:26.394+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [Thread-25] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-19T00:20:26.438+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-07-19T00:20:26.666+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Starting PortfolioConvertToJavaAndDeployApplication using Java 25.0.3 with PID 8052 (E:\Advance Java Assignment\Portfolio Convert To Java and Deploy\target\classes started by LENOVO in E:\Advance Java Assignment\Portfolio Convert To Java and Deploy)
+2026-07-19T00:20:26.669+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : No active profile set, falling back to 1 default profile: "default"
+2026-07-19T00:20:27.392+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 5782 (http)
+2026-07-19T00:20:27.394+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-07-19T00:20:27.395+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
+2026-07-19T00:20:27.479+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 803 ms
+2026-07-19T00:20:27.529+06:00  WARN 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'contactController': Injection of autowired dependencies failed
+2026-07-19T00:20:27.531+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2026-07-19T00:20:27.550+06:00  INFO 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
 
-2026-07-18T16:48:19.544+06:00 ERROR 15956 --- [Portfolio Convert To Java and Deploy] [http-nio-5782-exec-4] c.s.p.Controller.ContactController       : Failed to send contact form email
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2026-07-19T00:20:27.555+06:00 ERROR 8052 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.SpringApplication               : Application run failed
 
-org.springframework.mail.MailAuthenticationException: Authentication failed
-	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:389) ~[spring-context-support-7.0.8.jar:7.0.8]
-	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:304) ~[spring-context-support-7.0.8.jar:7.0.8]
-	at org.springframework.mail.MailSender.send(MailSender.java:42) ~[spring-context-support-7.0.8.jar:7.0.8]
-	at com.sparktech.portfolio_deploy.Controller.ContactController.contactForm(ContactController.java:46) ~[classes/:na]
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'contactController': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:499) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1444) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:525) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:333) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:331) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:196) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1225) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1191) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1121) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:994) ~[spring-context-7.0.8.jar:7.0.8]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:621) ~[spring-context-7.0.8.jar:7.0.8]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-web-server-4.1.0.jar:4.1.0]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:756) ~[spring-boot-4.1.0.jar:4.1.0]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:445) ~[spring-boot-4.1.0.jar:4.1.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321) ~[spring-boot-4.1.0.jar:4.1.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1365) ~[spring-boot-4.1.0.jar:4.1.0]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-4.1.0.jar:4.1.0]
+	at com.sparktech.portfolio_deploy.PortfolioConvertToJavaAndDeployApplication.main(PortfolioConvertToJavaAndDeployApplication.java:10) ~[classes/:na]
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[na:na]
 	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[na:na]
-	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:252) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:184) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:903) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649) ~[tomcat-embed-core-11.0.22.jar:6.1]
-	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710) ~[tomcat-embed-core-11.0.22.jar:6.1]
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-11.0.22.jar:11.0.22]
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1272) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1801) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at java.base/java.lang.Thread.run(Thread.java:1474) ~[na:na]
-Caused by: jakarta.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. For more information, go to
-535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-3142a20b037sm17662328eec.27 - gsmtp
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:52) ~[spring-boot-devtools-4.1.0.jar:4.1.0]
+Caused by: org.springframework.util.PlaceholderResolutionException: Could not resolve placeholder 'MAIL_USERNAME' in value "${MAIL_USERNAME}" <-- "${spring.mail.username}"
+	at org.springframework.util.PlaceholderResolutionException.withValue(PlaceholderResolutionException.java:81) ~[spring-core-7.0.8.jar:7.0.8]
+	at org.springframework.util.PlaceholderParser$ParsedValue.resolve(PlaceholderParser.java:296) ~[spring-core-7.0.8.jar:7.0.8]
+	at org.springframework.util.PlaceholderParser.replacePlaceholders(PlaceholderParser.java:129) ~[spring-core-7.0.8.jar:7.0.8]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:96) ~[spring-core-7.0.8.jar:7.0.8]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:286) ~[spring-core-7.0.8.jar:7.0.8]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:257) ~[spring-core-7.0.8.jar:7.0.8]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:184) ~[spring-context-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:959) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1679) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1658) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:764) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:748) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:146) ~[spring-beans-7.0.8.jar:7.0.8]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:493) ~[spring-beans-7.0.8.jar:7.0.8]
+	... 22 common frames omitted
 
-	at org.eclipse.angus.mail.smtp.SMTPTransport$Authenticator.authenticate(SMTPTransport.java:954) ~[angus-mail-2.0.5.jar:na]
-	at org.eclipse.angus.mail.smtp.SMTPTransport.authenticate(SMTPTransport.java:865) ~[angus-mail-2.0.5.jar:na]
-	at org.eclipse.angus.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:769) ~[angus-mail-2.0.5.jar:na]
-	at jakarta.mail.Service.connect(Service.java:345) ~[jakarta.mail-api-2.1.5.jar:na]
-	at org.springframework.mail.javamail.JavaMailSenderImpl.connectTransport(JavaMailSenderImpl.java:467) ~[spring-context-support-7.0.8.jar:7.0.8]
-	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:386) ~[spring-context-support-7.0.8.jar:7.0.8]
-	... 46 common frames omitted
-
-2026-07-18T16:48:19.850+06:00 ERROR 15956 --- [Portfolio Convert To Java and Deploy] [http-nio-5782-exec-5] c.s.p.Controller.ContactController       : Failed to send contact form email
-
-org.springframework.mail.MailAuthenticationException: Authentication failed
-	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:389) ~[spring-context-support-7.0.8.jar:7.0.8]
-	at org.springframework.mail.javamail.JavaMailSenderImpl.send(JavaMailSenderImpl.java:304) ~[spring-context-support-7.0.8.jar:7.0.8]
-	at org.springframework.mail.MailSender.send(MailSender.java:42) ~[spring-context-support-7.0.8.jar:7.0.8]
-	at com.sparktech.portfolio_deploy.Controller.ContactController.contactForm(ContactController.java:46) ~[classes/:na]
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[na:na]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[na:na]
-	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:252) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:184) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:903) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649) ~[tomcat-embed-core-11.0.22.jar:6.1]
-	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874) ~[spring-webmvc-7.0.8.jar:7.0.8]
-	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710) ~[tomcat-embed-core-11.0.22.jar:6.1]
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-11.0.22.jar:11.0.22]
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.8.jar:7.0.8]
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1272) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1801) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57) ~[tomcat-embed-core-11.0.22.jar:11.0.22]
-	at java.base/java.lang.Thread.run(Thread.java:1474) ~[na:na]
-Caused by: jakarta.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. For more information, go to
-535 5.7.8  https://support.google.com/mail/?p=BadCredentials a92af1059eb24-13ce2a129f3sm12429198c88.7 - gsmtp
-
-	at org.eclipse.angus.mail.smtp.SMTPTransport$Authenticator.authenticate(SMTPTransport.java:954) ~[angus-mail-2.0.5.jar:na]
-	at org.eclipse.angus.mail.smtp.SMTPTransport.authenticate(SMTPTransport.java:865) ~[angus-mail-2.0.5.jar:na]
-	at org.eclipse.angus.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:769) ~[angus-mail-2.0.5.jar:na]
-	at jakarta.mail.Service.connect(Service.java:345) ~[jakarta.mail-api-2.1.5.jar:na]
-	at org.springframework.mail.javamail.JavaMailSenderImpl.connectTransport(JavaMailSenderImpl.java:467) ~[spring-context-support-7.0.8.jar:7.0.8]
-	at org.springframework.mail.javamail.JavaMailSenderImpl.doSend(JavaMailSenderImpl.java:386) ~[spring-context-support-7.0.8.jar:7.0.8]
-	... 46 common frames omitted
-
-2026-07-18T17:18:00.575+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
-2026-07-18T17:18:00.590+06:00  INFO 15956 --- [Portfolio Convert To Java and Deploy] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
-2026-07-18T17:18:03.595+06:00  INFO 2680 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Starting PortfolioConvertToJavaAndDeployApplication using Java 25.0.3 with PID 2680 (E:\Advance Java Assignment\Portfolio Convert To Java and Deploy\target\classes started by LENOVO in E:\Advance Java Assignment\Portfolio Convert To Java and Deploy)
-2026-07-18T17:18:03.598+06:00  INFO 2680 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : No active profile set, falling back to 1 default profile: "default"
-2026-07-18T17:18:03.674+06:00  INFO 2680 --- [Portfolio Convert To Java and Deploy] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2026-07-18T17:18:03.675+06:00  INFO 2680 --- [Portfolio Convert To Java and Deploy] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2026-07-18T17:18:05.341+06:00  INFO 2680 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 5782 (http)
-2026-07-18T17:18:05.363+06:00  INFO 2680 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2026-07-18T17:18:05.363+06:00  INFO 2680 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
-2026-07-18T17:18:05.412+06:00  INFO 2680 --- [Portfolio Convert To Java and Deploy] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1736 ms
-2026-07-18T17:18:07.612+06:00  INFO 2680 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 5782 (http) with context path '/'
-2026-07-18T17:18:07.638+06:00  INFO 2680 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Started PortfolioConvertToJavaAndDeployApplication in 4.692 seconds (process running for 5.785)
-2026-07-18T17:39:25.464+06:00  INFO 2680 --- [Portfolio Convert To Java and Deploy] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
-2026-07-18T17:39:25.472+06:00  INFO 2680 --- [Portfolio Convert To Java and Deploy] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
-2026-07-18T17:39:28.144+06:00  INFO 15252 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Starting PortfolioConvertToJavaAndDeployApplication using Java 25.0.3 with PID 15252 (E:\Advance Java Assignment\Portfolio Convert To Java and Deploy\target\classes started by LENOVO in E:\Advance Java Assignment\Portfolio Convert To Java and Deploy)
-2026-07-18T17:39:28.146+06:00  INFO 15252 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : No active profile set, falling back to 1 default profile: "default"
-2026-07-18T17:39:28.210+06:00  INFO 15252 --- [Portfolio Convert To Java and Deploy] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2026-07-18T17:39:28.210+06:00  INFO 15252 --- [Portfolio Convert To Java and Deploy] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2026-07-18T17:39:29.201+06:00  INFO 15252 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 5782 (http)
-2026-07-18T17:39:29.216+06:00  INFO 15252 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2026-07-18T17:39:29.217+06:00  INFO 15252 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
-2026-07-18T17:39:29.264+06:00  INFO 15252 --- [Portfolio Convert To Java and Deploy] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1053 ms
-2026-07-18T17:39:29.767+06:00  INFO 15252 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 5782 (http) with context path '/'
-2026-07-18T17:39:29.773+06:00  INFO 15252 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Started PortfolioConvertToJavaAndDeployApplication in 2.135 seconds (process running for 2.962)
-2026-07-18T18:49:38.364+06:00  INFO 15252 --- [Portfolio Convert To Java and Deploy] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
-2026-07-18T18:49:38.372+06:00  INFO 15252 --- [Portfolio Convert To Java and Deploy] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
-2026-07-18T18:49:40.216+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Starting PortfolioConvertToJavaAndDeployApplication using Java 25.0.3 with PID 10628 (E:\Advance Java Assignment\Portfolio Convert To Java and Deploy\target\classes started by LENOVO in E:\Advance Java Assignment\Portfolio Convert To Java and Deploy)
-2026-07-18T18:49:40.219+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : No active profile set, falling back to 1 default profile: "default"
-2026-07-18T18:49:40.261+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2026-07-18T18:49:40.261+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2026-07-18T18:49:41.038+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 5782 (http)
-2026-07-18T18:49:41.055+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2026-07-18T18:49:41.055+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
-2026-07-18T18:49:41.093+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 831 ms
-2026-07-18T18:49:41.494+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 5782 (http) with context path '/'
-2026-07-18T18:49:41.501+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Started PortfolioConvertToJavaAndDeployApplication in 1.661 seconds (process running for 2.413)
-2026-07-18T19:02:37.459+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 17 class path changes (0 additions, 17 deletions, 0 modifications)
-2026-07-18T19:02:37.474+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [Thread-1] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
-2026-07-18T19:02:37.487+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
-2026-07-18T19:02:37.689+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Starting PortfolioConvertToJavaAndDeployApplication using Java 25.0.3 with PID 10628 (E:\Advance Java Assignment\Portfolio Convert To Java and Deploy\target\classes started by LENOVO in E:\Advance Java Assignment\Portfolio Convert To Java and Deploy)
-2026-07-18T19:02:37.690+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : No active profile set, falling back to 1 default profile: "default"
-2026-07-18T19:02:38.181+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 5782 (http)
-2026-07-18T19:02:38.186+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2026-07-18T19:02:38.187+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
-2026-07-18T19:02:38.235+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 524 ms
-2026-07-18T19:02:38.494+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 5782 (http) with context path '/'
-2026-07-18T19:02:38.503+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Started PortfolioConvertToJavaAndDeployApplication in 0.883 seconds (process running for 779.416)
-2026-07-18T19:02:38.521+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
-2026-07-18T19:02:39.920+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 17 class path changes (17 additions, 0 deletions, 0 modifications)
-2026-07-18T19:02:39.931+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [Thread-5] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
-2026-07-18T19:02:39.953+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
-2026-07-18T19:02:40.099+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Starting PortfolioConvertToJavaAndDeployApplication using Java 25.0.3 with PID 10628 (E:\Advance Java Assignment\Portfolio Convert To Java and Deploy\target\classes started by LENOVO in E:\Advance Java Assignment\Portfolio Convert To Java and Deploy)
-2026-07-18T19:02:40.100+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : No active profile set, falling back to 1 default profile: "default"
-2026-07-18T19:02:40.510+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 5782 (http)
-2026-07-18T19:02:40.512+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2026-07-18T19:02:40.513+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
-2026-07-18T19:02:40.557+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 451 ms
-2026-07-18T19:02:40.759+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 5782 (http) with context path '/'
-2026-07-18T19:02:40.764+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Started PortfolioConvertToJavaAndDeployApplication in 0.72 seconds (process running for 781.676)
-2026-07-18T19:02:40.766+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
-2026-07-18T19:04:47.706+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
-2026-07-18T19:04:47.709+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [Thread-9] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
-2026-07-18T19:04:47.734+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
-2026-07-18T19:04:47.888+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Starting PortfolioConvertToJavaAndDeployApplication using Java 25.0.3 with PID 10628 (E:\Advance Java Assignment\Portfolio Convert To Java and Deploy\target\classes started by LENOVO in E:\Advance Java Assignment\Portfolio Convert To Java and Deploy)
-2026-07-18T19:04:47.889+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : No active profile set, falling back to 1 default profile: "default"
-2026-07-18T19:04:48.586+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 5782 (http)
-2026-07-18T19:04:48.587+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2026-07-18T19:04:48.588+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.22]
-2026-07-18T19:04:48.645+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 751 ms
-2026-07-18T19:04:48.913+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 5782 (http) with context path '/'
-2026-07-18T19:04:48.918+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] rtfolioConvertToJavaAndDeployApplication : Started PortfolioConvertToJavaAndDeployApplication in 1.1 seconds (process running for 909.831)
-2026-07-18T19:04:48.920+06:00  INFO 10628 --- [Portfolio Convert To Java and Deploy] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged

@@ -53,7 +53,7 @@
             Message sent successfully!
         </p>
         <p id="formResultError" class="error" th:if="${param.sent != null and param.sent[0] == 'false'}">
-            Something went wrong. Please try again or email me directly.
+            Something went wrong: <span th:text="${errorMessage != null ? errorMessage : 'Please try again or email me directly.'}"></span>
         </p>
     </div>
 </section>
