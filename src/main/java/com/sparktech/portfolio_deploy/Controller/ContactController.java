@@ -28,7 +28,7 @@ public class ContactController {
         return "contact";
     }
 
-    @PostMapping("contact-form")
+    @PostMapping("/contact-form")
     public String contactForm(@ModelAttribute Contact contact) {
         log.info("This is the Contact form{}", contact);
         return "redirect:/contact";
