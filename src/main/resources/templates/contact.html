@@ -51,7 +51,7 @@
             <p id="formResult"></p>
         </form>
 
-        <p id="formResult" class="success" th:if="${param.sent != null and param.sent[0] == 'true'}">
+        <p id="formResultSuccess" class="success" th:if="${param.sent != null and param.sent[0] == 'true'}">
             Message sent successfully!
         </p>
         <p id="formResult" class="error" th:if="${param.sent != null and param.sent[0] == 'false'}">
